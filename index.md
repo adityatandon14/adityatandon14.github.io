@@ -1,37 +1,316 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>International Organisation of Software Developers | IOSD</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Revolutionary advancement in the field of technology is a dream come true. Passion breathes innovation and tech people band together pooling technical skills to form a community of professional coders who mix technology with creativity to make commercial and non-commercial projects for prestigious organisations." />
+<meta name="keywords" content="iosd, software development, programming, technical skills, open source, innovation, entrepreneurship, open source development, oss, open source software, technology, professional coders, projects, commercial projects, non-commercial projects, skills, creativity, join iosd, expert training, mentorship" />
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+<link href="./bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link href="./stack-interface.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./sociocon.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./flickity.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./iconsmind.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./jquery.steps.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./theme.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./custom.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-103189427-1"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-You can use the [editor on GitHub](https://github.com/adityatandon14/adityatandon14.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      gtag("config", "UA-103189427-1");
+    </script>
+     
+   
+     <!-- Bootstrap -->
+     <!-- CSS only -->
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+       crossorigin="anonymous">
+     <!-- JS, Popper.js, and jQuery -->
+     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+       crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+       integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+       crossorigin="anonymous"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+       integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+       crossorigin="anonymous"></script>
+     <link rel="stylesheet" href="style.css">
+</head>
 
-### Markdown
+<body>
+  <header>
+    <div class="container-fluid p-0">
+      <div class="nav-btn navbar navbar-expand-lg navbar-light bg-white">
+        <a class="navbar-brand" href="#">
+          <img src="./assets/images/IOSD-logo.png" width="30%" alt="" loading="lazy">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div class="nav-links">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-link" style="--i: .6s">
+                <a href="#">Home</a>
+              </li>
+              <li class="nav-link" style="--i: .6s">
+                <a href="./announcements/index.html">Upcoming Events</a>
+              </li>
+              <li class="nav-link" style="--i: .6s">
+                <a href="./team/index.html">Our Team</a>
+              </li>
+              <li class="nav-link" style="--i: .6s">
+                <a href="./about/index.html">About</a>
+              </li>
+              <li class="nav-link" style="--i: .6s">
+                <a href="./contactUs/index.html">Contact Us</a>
+              </li>
+              <li>
+                <a href="https://iosd.tech"> <button class="btn btn-outline-success my-2 my-sm-0 iosd-login">Login</button></a>
+              </li>
+              
+            </ul>
+          
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+ 
 
-```markdown
-Syntax highlighted code block
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="./971.jpg" alt="Los Angeles" style="width:120%" height="300px">
+      </div>
 
-# Header 1
-## Header 2
-### Header 3
+      <div class="item">
+        <img src="./4380747.jpg" alt="Chicago" style="width:120%" height="300px">
+      </div>
+    
+    
 
-- Bulleted
-- List
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    <br>
+    <br>
+  </div>
 
-1. Numbered
-2. List
+</div>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<section class="switchable feature-large">
+<div class="container">
+<div class="row justify-content-around">
+<div class="col-md-6">
+<img alt="Image" class="border--round box-shadow-wide" src="https://iosd.tech/img/open-src.jpg" />
+</div>
+<div class="col-md-6 col-lg-5">
+<div class="switchable__text">
+<div class="text-block">
+<h2>IOSD Summer Of Code</h2>
+</div>
+<p class="lead">
+IOSD Summer of Code is a summer event organised on Github
+where students registered are alloted projects and they work
+as teams under guidance of expert mentors to complete them
+successfully. These projects help students improve and learn
+new skills as well as apply them to real-world projects.
+</p>
+</div>
+</div>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</div>
 
-### Jekyll Themes
+</section>
+<section class="switchable switchable--switch feature-large">
+<div class="container">
+<div class="row justify-content-around">
+<div class="col-md-6">
+<img alt="Image" class="border--round box-shadow-wide" src="https://iosd.tech/img/non-commercial.jpg" />
+</div>
+<div class="col-md-6 col-lg-5">
+<div class="switchable__text">
+<div class="text-block">
+<h2>Commercial Projects</h2>
+</div>
+<p class="lead">
+Teaching self-reliance by example, IOSD has been marketing
+their state-of-the-art apps that were useful to the target
+consumers and the society as a whole. Never compromising on
+quality, the best IOSD projects were commercialized
+</p>
+</div>
+</div>
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adityatandon14/adityatandon14.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</div>
 
-### Support or Contact
+</section>
+<section class="switchable feature-large">
+<div class="container">
+<div class="row justify-content-around">
+ <div class="col-md-6">
+<img alt="Image" class="border--round box-shadow-wide" src="https://iosd.tech/img/commercial.jpg" />
+</div>
+<div class="col-md-6 col-lg-5">
+<div class="switchable__text">
+<div class="text-block">
+<h2>Non Commercial Projects</h2>
+</div>
+<p class="lead">
+The treasure that cannot be stolen, experience, is best
+acquired with practice. The harder you work, the better you
+become. Work on projects with IOSD peers and seniors and learn
+the tricks of the trade of technology
+</p>
+</div>
+</div>
+</div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
+
+</section>
+<section class="">
+<div class="container">
+<h1 class="text-center">
+IOSD Major Projects
+</h1>
+<div class="row">
+<div class="col-md-4 text-center">
+<img width="250" height="250" src="https://iosd.tech/img/projects/apkaupdate.jpg" alt="" />
+<h4>Apka Update</h4>
+Developed an Android Application for Delhi Police to Track and
+Solve Queries of Complainants on their respective FIR, reducing
+the wastage of time and increasing accountability
+</div>
+<div class="col-md-4 text-center">
+<img width="250" src="https://iosd.tech/img/projects/app-police-logo.jpg" alt="" />
+<h4>Police Feedback, Arunachal Pradesh</h4>
+Developed an Android Application for Arunachal Police to receive
+feedback from people to increase accountability and improve their
+services.
+</div>
+<div class="col-md-4 text-center">
+<br />
+<br />
+<br />
+<img width="250" src="https://iosd.tech/img/auto-drone.jpg" alt="" />
+<h4>Autonomous Drone, Delhi Police</h4>
+Developed a PID based Autonomous Drone which predicts the crime
+rate in an area using ML.
+</div>
+</div>
+<div class="row">
+<div class="col-md-4 text-center">
+<img width="250" height="250" src="https://iosd.tech/img/dp-logo.png" alt="" />
+<h4>Team Delta Force, Delhi Police</h4>
+Developed an Android based Application for Delhi Police for live
+tracking police teams and increase efficiency of police.
+</div>
+<div class="col-md-4 text-center">
+<img width="250" height="250" src="https://iosd.tech/img/ap-logo.jpg" alt="" />
+<h4>Nishaan, Arunachal Police</h4>
+Developed an Android based Application for Arunachal Police for
+live tracking police teams and increase efficiency of police.
+</div>
+<div class="col-md-4 text-center">
+<img width="250" height="250" src="https://iosd.tech/img/united.jpg" alt="" />
+<h4>YFHRI, United Nations</h4>
+Developed an Android Application for United Nations to encourage
+Youth to participate in social activites.
+</div>
+</div>
+<div class="row mt-5">
+<div class="col-md-4 text-center">
+<img style="margin-left: 100px; object-fit: contain;" width="250" height="250" src="https://iosd.tech/img/1.png" alt="" />
+<h4>TrainR</h4>
+Developed an Fitness Android Application to provied an overall
+health and fitness tracking in one place.
+</div>
+<div class="col-md-4 text-center">
+<img width="250" height="250" src="https://iosd.tech/img/FRNZY1.png" alt="" />
+<h4>FRNZY</h4>
+Developed an elaborate e-commerce website and Android Application
+</div>
+<div class="col-md-4 text-center">
+<img width="250" height="250" src="https://iosd.tech/img/manlift.jpeg" alt="" />
+<h4>MANLIFT</h4>
+Developed an Android based Application to Provied Detailed
+catalogues for Cranes and other industrial equipments from your
+mobile by touch of a finger.
+</div>
+</div>
+
+
+
+
+</div>
+</div>
+</section>
+<h1 class="text-center">
+And Many More....
+</h1>
+</div>
+<footer class="container-fluid text-center">
+  <p>Made with Love by IOSD manipal</p>
+</footer>
+
+<a class="back-to-top inner-link" href="#" data-scroll-class="100vh:active">
+<i class="stack-interface stack-up-open-big"></i>
+</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-3.1.1.min.js"></script>
+<script src="js/flickity.min.js"></script>
+<script src="js/easypiechart.min.js"></script>
+<script src="js/parallax.js"></script>
+<script src="js/typed.min.js"></script>
+<script src="js/datepicker.js"></script>
+<script src="js/isotope.min.js"></script>
+<script src="js/ytplayer.min.js"></script>
+<script src="js/lightbox.min.js"></script>
+<script src="js/granim.min.js"></script>
+<script src="js/jquery.steps.min.js"></script>
+<script src="js/countdown.min.js"></script>
+<script src="js/twitterfetcher.min.js"></script>
+<script src="js/spectragram.min.js"></script>
+<script src="js/smooth-scroll.min.js"></script>
+<script src="js/scripts.js"></script>
+</body>
+
+</html>
